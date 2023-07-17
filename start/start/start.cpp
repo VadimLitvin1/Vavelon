@@ -12,13 +12,11 @@ void showMainMenu()
 void selectMusic()
 {
     std::cout << "Music selected\n"; // Вибрано музику
-    // Тут можна додати логіку для вибору музики
 }
 
 void viewProfile()
 {
     std::cout << "Profile\n"; // Профіль
-    // Тут можна додати логіку для перегляду профілю
 }
 
 int main()
